@@ -1,5 +1,6 @@
 @echo off
 cls
+title Noafk
+echo maximize this tab
 echo starting Noafk
-echo minimize this tab
 python Noafk.py
