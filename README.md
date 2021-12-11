@@ -23,6 +23,6 @@ Alarm mode **allow's the user to still use their device** but will **play a nois
 Repeat steps 2-3 when you here the "Alarm" noise
 # Installation
 Simply extract the files and run start.cmd
-run `mklink /D rbxmove <path of your rbxmove>` inside of your Noafk path
-After that the program will guide you through the steps
+run `mklink /D rbxmove <path of your rbxmove>` inside of your Noafk path.
+After that the program will guide you through the steps.
 
